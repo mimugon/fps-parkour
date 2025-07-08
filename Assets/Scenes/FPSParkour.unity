@@ -1149,7 +1149,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7e458aa539a0c98438f344d55da28de5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cost: 0
+  cost: 20
   moneyManager: {fileID: 0}
 --- !u!65 &413667980
 BoxCollider:
@@ -5086,8 +5086,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 4.000903, y: 0.42094484, z: 4}
-  m_Center: {x: 0.00045204163, y: -0.13868873, z: 1.8448489}
+  m_Size: {x: 4.2463493, y: 1.0006634, z: 3.8980432}
+  m_Center: {x: -0.12227109, y: 0.14541396, z: 1.8720853}
 --- !u!1 &1882804590
 GameObject:
   m_ObjectHideFlags: 0
@@ -5162,13 +5162,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1882804588}
-  m_LocalRotation: {x: -0.1564345, y: 0, z: 0, w: 0.98768836}
-  m_LocalPosition: {x: 0.08069854, y: -0.6913128, z: -2.7158437}
+  m_LocalRotation: {x: -0.111642316, y: 0, z: 0, w: 0.9937485}
+  m_LocalPosition: {x: 0.08069854, y: -0.38, z: -3.68}
   m_LocalScale: {x: 1, y: 0.7703994, z: 1.6106}
   m_Children: []
   m_Father: {fileID: 1883163982}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: -18, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: -12.82, y: 0, z: 0}
 --- !u!4 &1883163982
 Transform:
   m_ObjectHideFlags: 0
