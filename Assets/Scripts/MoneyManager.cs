@@ -20,5 +20,7 @@ public class MoneyManager : MonoBehaviour
             return;
         }
         money += moneyToAdd;
+        uiManager.UpdateMoneyTxt(money.ToString());
+
     }
 }
